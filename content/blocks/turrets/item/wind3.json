@@ -12,8 +12,17 @@
   "type": "ItemTurret",
   "requirements": [
     "copper/5000",
+    "lead/5000",
+    "graphite/5000",
+    "titanium/5000",
+    "spore-pod/5000",
+    "thorium/5000",
     "silicon/5000",
+    "metaglass/5000"
     "plastanium/5000",
+    "pyratite/5000",
+    "blast-compound/5000",
+    "phase-fabric/5000",
     "surge-alloy/5000"
   ],
   "consumes": {
@@ -22,10 +31,9 @@
   "ammoTypes": {
     "surge-alloy": {
       "type": "BasicBulletType",
+      "damage": 20000,
       "speed": 8,
       "lifetime": 70,
-      "ammoMultiplier": 0.5,
-      "damage": 2000,
       "status": "shocked",
       "statusDuration": 5000
     }
