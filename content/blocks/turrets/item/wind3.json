@@ -1,0 +1,33 @@
+{
+  "name": "Wind 3",
+  "size": 4,
+  "description": "wind3",
+  "details": "the funny",
+  "health": 2000,
+  "range": 420,
+  "reload": 200,
+  "shootSound": "wind3",
+  "category": "turret",
+  "hasPower": true,
+  "type": "ItemTurret",
+  "requirements": [
+    "copper/5000",
+    "silicon/5000",
+    "plastanium/5000",
+    "surge-alloy/5000"
+  ],
+  "consumes": {
+    "power": 25
+  },
+  "ammoTypes": {
+    "surge-alloy": {
+      "type": "BasicBulletType",
+      "speed": 8,
+      "lifetime": 70,
+      "ammoMultiplier": 0.5,
+      "damage": 2000,
+      "status": "shocked",
+      "statusDuration": 5000
+    }
+  }
+}
