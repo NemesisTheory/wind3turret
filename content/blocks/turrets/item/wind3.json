@@ -13,6 +13,9 @@
   "requirements": [
     "copper/5000",
     "lead/5000",
+    "sand/5000",
+    "coal/5000",
+    "scrap/5000",
     "graphite/5000",
     "titanium/5000",
     "spore-pod/5000",
