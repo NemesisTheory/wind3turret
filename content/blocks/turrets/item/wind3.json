@@ -21,7 +21,7 @@
     "spore-pod/5000",
     "thorium/5000",
     "silicon/5000",
-    "metaglass/5000"
+    "metaglass/5000",
     "plastanium/5000",
     "pyratite/5000",
     "blast-compound/5000",
@@ -38,7 +38,14 @@
       "speed": 8,
       "lifetime": 70,
       "status": "shocked",
-      "statusDuration": 5000
+      "statusDuration": 5000,
+    "shit": {
+        "type": "ArtilleryBulletType",
+        "damage": 1,
+        "speed": 10,
+        "lifetime": 70,
+        "status": "explosive-diarrhea",
+        "statusDuration": 5000"
     }
   }
 }
