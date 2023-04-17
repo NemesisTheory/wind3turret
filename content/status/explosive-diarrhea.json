@@ -4,7 +4,7 @@
   "localizedName": "explosive diarrhea",
   "description": "After a short trip to Taco Bell..",
   "color": "b100cd",
-  "speedMultiplier": 0.0000005,
+  "speedMultiplier": 0.1,
   "damage": 333,
   "duration": 72000,
   "overlay": "explosive-diarrhea",
