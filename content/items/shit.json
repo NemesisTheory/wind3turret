@@ -6,6 +6,7 @@
   "color": "00918f",
   "hardness": 0.1,
   "radioactivity": 150000,
+  "flammability": 500000,
   "explosiveness": 900000,
   "heatCapacity": 120000,
   "conductivity": 0.00001,
