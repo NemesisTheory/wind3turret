@@ -39,6 +39,7 @@
       "lifetime": 70,
       "status": "shocked",
       "statusDuration": 5000,
+    },
     "shit": {
         "type": "ArtilleryBulletType",
         "damage": 1,
