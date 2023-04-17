@@ -1,0 +1,11 @@
+{
+  "type": "status",
+  "name": "explosive-diarrhea",
+  "localizedName": "explosive diarrhea",
+  "description": "After a short trip to Taco Bell..",
+  "color": "b100cd",
+  "speedMultiplier": 0.45,
+  "damage": 200,
+  "duration": 72000,
+  "overlay": "explosive-diarrhea",
+}
