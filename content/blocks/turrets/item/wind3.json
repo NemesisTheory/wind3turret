@@ -43,6 +43,8 @@
     "shit": {
         "type": "ArtilleryBulletType",
         "damage": 1,
+        "splashDamage": 5000000,
+        "splashDamageRadius": 10000,
         "speed": 10,
         "lifetime": 70,
         "status": "explosive-diarrhea",
