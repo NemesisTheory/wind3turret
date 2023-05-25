@@ -1,9 +1,10 @@
 {
-"name": "wind-3-turret",
-"displayName": "wind 3 turret",
-"author": "NemesisTheory",
-"description": "adds the funny \n\naverage sprite fan vs average error enjoyer",
-"version": "1.0",
-"minGameVersion": "136",
-"hidden": false
+  "name": "wind-3-turret",
+  "displayName": "wind 3 turret",
+  "author": "NemesisTheory",
+  "description": "adds the funny \n\naverage sprite fan vs average error enjoyer",
+  "version": "1.0",
+  "minGameVersion": "136",
+  "hideBrowser": true,
+  "hidden": false
 }
